@@ -1,0 +1,20 @@
+{
+  "name": "WIF Trading Rechner",
+  "short_name": "WIF Rechner",
+  "start_url": "wif-rechner.html",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "icon-dollar-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "splash-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
